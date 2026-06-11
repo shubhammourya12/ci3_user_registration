@@ -132,7 +132,7 @@ public function index() {
 
         redirect('index.php/users');
     }
-
+/*--------comment-------*/
 
     // DELETE USER
     public function delete($id) {
